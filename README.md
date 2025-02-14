@@ -1,5 +1,3 @@
 # learning-git
-**hello** my name is wassim this is a project that im making to learn different
-<p style="color:red;">
-   This text will be in red!
-</p>
+This is my second attempt to change the text color in github
+<span style="color: red;">This text is red!</span>
