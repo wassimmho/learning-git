@@ -1,2 +1,2 @@
 # learning-git
-this text was changed in wassim's branch this is the first time creating a branch
+merge conflict happened deleted both changes and made this to resolve it .
