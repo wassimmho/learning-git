@@ -1,3 +1,2 @@
 # learning-git
-This is my second attempt to change the text color in github
-<span style="color: red;">This text is red!</span>
+aparently u cant change color of github read me using css styles 
